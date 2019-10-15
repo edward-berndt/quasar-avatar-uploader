@@ -1,0 +1,5 @@
+.quasar
+.git
+.editorconfig
+.dist
+node_modules
