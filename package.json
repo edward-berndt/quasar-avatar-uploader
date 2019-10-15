@@ -1,8 +1,8 @@
 {
   "name": "quasar-avatar-uploader",
   "version": "0.0.1",
-  "description": "A Quasar Framework app",
-  "productName": "Quasar App",
+  "description": "A Customization of the Quasar QUploader component with a preview and cropping function.",
+  "productName": "Quasar Avatar Uploader",
   "cordovaId": "org.cordova.quasar.app",
   "capacitorId": "",
   "author": "edward berndt",
